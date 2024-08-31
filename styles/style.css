@@ -7,3 +7,21 @@ h1 {
 div {
   color: gray
 }
+
+p {
+  font-size: 20px;
+}
+div {
+  font-size: 17px;
+}
+
+img {
+  block-size: 330px;
+}
+
+p {
+  font-family: sans-serif;
+}
+div {
+  color: #9fa4a5;
+}
